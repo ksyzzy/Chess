@@ -1,2 +1,4 @@
 # Chess
-Simple chess game written in C++
+Simple chess game written in C++ langauage, in object-oriented programming paradigm, for university project.
+
+So far this app composes of back-end only, but still lacks some sort rules for recognition on when should the game end. I am planning on adding those, as well as the GUI.
